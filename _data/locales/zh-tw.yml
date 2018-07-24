@@ -1,0 +1,31 @@
+zh-tw:
+  locale_name: 繁體中文
+  nav:
+    about: 關於
+    contribute: 貢獻
+  index:
+    lead: 開放原始碼軟體就是由像你一樣的人所打造，從這裡開始學習如何啟動並發展你的開源專案吧！
+    opensourcefriday: 又到了星期五，不妨投入幾個小時，對你所熱愛的軟體有所貢獻吧！
+  article:
+    table_of_contents: 目錄
+    back_to_all_guides: 所有指南
+    related_guides: 相關指南
+  footer:
+    contribute:
+      heading: 貢獻
+      description: 想要提出任何建議嗎？本站所有內容皆為開放原始碼，歡迎幫助我們改善內容。
+      button: 貢獻
+    subscribe:
+      heading: 持續關注我們
+      description: 搶先訂閱關於 GitHub 所提供的各種最新開源技巧與資源。
+      label: 電子郵件地址
+      button: 訂閱
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] with [love] by [github] & [friends]"
+      # Label for code octicon
+      code_label: 程式碼
+      # Label for love octicon
+      love_label: 愛心
+      # Label for the contributors link
+      friends_label: 社群朋友們
